@@ -26,10 +26,10 @@ node{
 			]	
 		],
 		credentialsId: 'nexus3',
-		groupId: 'in.ashokit',
+		groupId: 'in.shankar',
 		nexusUrl: '',
 		protocol: 'http',
-		repository: 'ashokit-release'
+		repository: 'shankar-snapshot'
 		version: '1.0.0'
 	}
 }
